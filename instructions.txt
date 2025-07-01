@@ -5,6 +5,11 @@ steps to run the frontend:
 3. npm run dev
 
 
-steps to run the ipynb:
-1. pip install -r requirements.txt
-2. run the ipynb file in jupyter notebook
+steps to run the NB.ipynb:
+1. create a virtual environment(optional)
+2. get into the venv
+3. python3 -m ensurepip
+4. python3 -m pip install -r requirements.txt
+5. run the ipynb file in jupyter notebook
+
+If the model is already there, you can run TestModel.ipynb to load it and test
