@@ -1,0 +1,2 @@
+The model was created with train_model.py
+The server can be run using npm run dev in the terminal
