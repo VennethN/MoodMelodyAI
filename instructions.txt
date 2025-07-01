@@ -1,2 +1,10 @@
 The model was created with train_model.py
-The server can be run using npm run dev in the terminal
+steps to run the frontend:
+1. cd musicmood-frontend
+2. npm install
+3. npm run dev
+
+
+steps to run the ipynb:
+1. pip install -r requirements.txt
+2. run the ipynb file in jupyter notebook
